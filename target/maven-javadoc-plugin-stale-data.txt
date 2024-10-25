@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+22
+-sourcepath
+'D:/Documentos 2/NetBeansProjects/Lista/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Documentos 2/NetBeansProjects/Lista/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lista 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lista 1.0-SNAPSHOT API'
+com.mycompany.lista
+D:\Documentos 2\NetBeansProjects\Lista\src\main\java = 1729786636258
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\allclasses-index.html = 1729791150768
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\allpackages-index.html = 1729791150772
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\element-list = 1729791150705
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\help-doc.html = 1729791150806
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\index-all.html = 1729791150793
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\index.html = 1729791150800
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\member-search-index.js = 1729791150779
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\module-search-index.js = 1729791150774
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\overview-tree.html = 1729791150755
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\package-search-index.js = 1729791150776
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\search.html = 1729791150797
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\tag-search-index.js = 1729791150781
+D:\Documentos 2\NetBeansProjects\Lista\target\reports\apidocs\type-search-index.js = 1729791150777
